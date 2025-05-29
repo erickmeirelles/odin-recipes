@@ -1,2 +1,80 @@
 /* styles.css */
 
+/* 
+*{
+    outline: solid red;
+}
+*/
+.title {
+  width: 250px;
+  background: #fff;
+  margin: 16px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title_lasagna {
+  width: 280px;
+  background: #fff;
+  margin: 16px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.image {
+    display: block;
+    margin: auto;
+    border: 10px solid mediumaquamarine;
+    border-radius: 5px;
+}
+
+.image_lasagna {
+    display: block;
+    margin: auto;
+    border: 10px solid chocolate;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.main_link {
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.back_link {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+a.front_link {
+    color:darkslategray;
+}
+
+h2 {
+  width: 500px;
+  background: #fff;
+  margin: 16px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  padding: 20px 20px 0px 20px;
+}
+
+p {
+    width: 700px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.list_lasagna {
+    width: 500px;
+    color:darkslategray;
+    margin: 0 auto;
+    padding: 5px;
+}
